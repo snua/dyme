@@ -3,6 +3,6 @@
 
 Jupyter notebooks for DYME.
 
-Intructions:
+Instructions:
 1. Download the whole folder as a zip file from this link: https://github.com/snua/dyme/zipball/master/
-2. Unzip the folder and launch your notebooks from inside the folder. (the notebooks require the files/images in subfolder 'files' to run properly)
+2. Unzip the folder and launch your Jupyter notebooks from inside the folder (the notebooks require the files in the subfolder called 'files' to run properly).
